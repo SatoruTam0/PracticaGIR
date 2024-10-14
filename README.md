@@ -1,6 +1,6 @@
 # 🍰 Sweet Delights Pastelería
 
-![Logo Sweet Delights](https://via.placeholder.com/300x100.png?text=Logo+Sweet+Delights)
+![Logo Sweet Delights](https://www.radioromaniacultural.ro/uploads/modules/layout/custom/28/600x338_1xad6ecaeaa0630b586271f3b92e969daa.jpg)
 
 ¡Bienvenidos a **Sweet Delights**! Somos una pastelería artesanal dedicada a ofrecer las mejores experiencias dulces para nuestros clientes. Aquí encontrarás todo lo que necesitas saber sobre nuestros productos, servicios y cómo colaborar con nosotros si eres un apasionado de la repostería o un desarrollador interesado en mejorar nuestra plataforma.
 
